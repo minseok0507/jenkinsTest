@@ -67,7 +67,7 @@
             </a>
             <nav class="hidden md:flex items-center gap-4">
                 <a class="hover:underline" href="<c:url value="/"/>">
-                    Blog 젠킨슨 테스트
+                    Blog 젠킨슨 테스트1
                 </a>
 
                 <c:if test="${sessionScope.user == null}">
